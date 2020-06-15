@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Sniffy	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setup	KEYWORD2
+measureTemperature	KEYWORD2
+measureHumidity	KEYWORD2
+measureTemperatureContinuously	KEYWORD2
+measureHumidityContinuously	KEYWORD2
+rainbow	KEYWORD2
+setLEDColor	KEYWORD2
+setColor	KEYWORD2
+setTemperatureColor	KEYWORD2
+setHumidityColor	KEYWORD2
+setWifiColor	KEYWORD2
+setWifi	KEYWORD2
+setThingSpeak	KEYWORD2
+connectWifi	KEYWORD2
+disconnectWifi	KEYWORD2
+connectThingSpeak	KEYWORD2
+sendDataToThingSpeak	KEYWORD2
+disconnectThingSpeak	KEYWORD2
+sleep	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+Temperature	LITERAL1
+Humidity	LITERAL1
+DEBUG	LITERAL1
+
